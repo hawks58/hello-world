@@ -3,5 +3,5 @@ dipping my toe into GitHub for the first time with hello world!
 
 Hello,
 
-Hawks here. I have been learning code for a year so far, I have spent time with Javascript and PHP, now I'm learning C#.
-I build the odd website, have fun with different linux distros and generally want to challenge myself.
+Hawks here, I'm a hobbiest programmer that intends to use git as a means to get my projects under control.
+My main language is C#, but I have been known to code in C, C++, Javascript and Lua.
